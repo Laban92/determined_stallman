@@ -10,11 +10,11 @@ Modern smart watches and fitness bands can only give us a rough estimates of cer
 
 ## About GASP
 
-LINK : https://github.com/remiconnesson/sleepy_banach/blob/master/One%20Page%20Article.md
+[LINK](https://github.com/Laban92/determined_stallman/blob/master/Article.md)
 
 ## Additional ressources:
 
-https://en.wikipedia.org/wiki/Weir_formula
+https://en.wikipedia.org/wiki/Weir_formula  
 https://thorax.bmj.com/content/37/11/840.abstract
 
 
